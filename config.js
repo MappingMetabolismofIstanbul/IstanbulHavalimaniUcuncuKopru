@@ -120,7 +120,7 @@ var config = {
             description: '',
             location: {
                 center: [29.113,41.203],
-                zoom: 11,
+                zoom: 14,
                 pitch: 40,
                 bearing: 0,
                 speed: 1,
