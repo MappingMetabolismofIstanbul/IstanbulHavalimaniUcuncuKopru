@@ -225,5 +225,32 @@ var config = {
             onChapterEnter: [],
             onChapterExit: []
         },
+        {
+            id: '6',
+            alignment: 'left',
+            hidden: false,
+            title: '',
+            image: 'https://iili.io/FgiS0gI.png',
+            description: '',
+            location: {
+                center: [28.929,41.231],
+                zoom: 11,
+                pitch: 40,
+                bearing: 0,
+                speed: 1,
+                curve: 2
+                // flyTo additional controls-
+                // These options control the flight curve, making it move
+                // slowly and zoom out almost completely before starting
+                // to pan.
+                //speed: 2, // make the flying slow
+                //curve: 0, // change the speed at which it zooms out
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: true,
+            callback: '',
+            onChapterEnter: [],
+            onChapterExit: []
+        },
     ]
 };
