@@ -116,7 +116,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://iili.io/FgiS0gI.png',
+            image: 'https://i.ibb.co/VWXKBsqh/MEF-AAP-027-BAP-PART-II-2025-08-10-10-41-00.png',
             description: '',
             location: {
                 center: [29.113,41.203],
@@ -143,7 +143,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/VWXKBsqh/MEF-AAP-027-BAP-PART-II-2025-08-10-10-41-00.png',
+            image: 'https://i.ibb.co/b541xy76/MEF-AAP-027-BAP-PART-II-2025-08-10-11-38-38.png',
             description: '',
             location: {
                 center: [28.929,41.231],
