@@ -143,7 +143,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/pB7D1wLT/MEF-AAP-027-BAP-PART-II-2025-07-31-11-20-04.png',
+            image: 'https://i.ibb.co/VWXKBsqh/MEF-AAP-027-BAP-PART-II-2025-08-10-10-41-00.png',
             description: '',
             location: {
                 center: [28.929,41.231],
