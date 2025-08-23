@@ -173,8 +173,8 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/TBwNHqct/MEF-AAP-027-BAP-PART-II-2025-07-31-11-22-38.png',
-            description: '',
+            image: '',
+            description: '<iframe frameborder="0" class="juxtapose" width="100%" height="810.7311627906977" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=cb671e26-8025-11f0-bb24-0936e1cb08fb"></iframe>',
             location: {
                 center: [28.929,41.231],
                 zoom: 11,
