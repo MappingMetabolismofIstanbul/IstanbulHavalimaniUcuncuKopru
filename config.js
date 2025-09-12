@@ -174,7 +174,7 @@ var config = {
             hidden: false,
             title: '',
             image: '',
-            description: '<iframe frameborder="0" class="juxtapose" width="100%" height="null" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b2ac5298-8f3e-11f0-ba1b-0e6f42328d7d"></iframe>',
+            description: '<iframe frameborder="0" class="juxtapose" width="100%" height="null" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=f7987ece-8ffa-11f0-ba1b-0e6f42328d7d"></iframe>',
             location: {
                 center: [28.929,41.231],
                 zoom: 11,
